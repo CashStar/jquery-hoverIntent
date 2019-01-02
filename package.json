@@ -1,0 +1,10 @@
+{
+    "name": "jquery-hoverIntent",
+    "version": "1.8.1",
+    "description": "jquery hover intent",
+    "devDependencies": {
+        "jquery": ">=1.7.0"
+    },
+    "author": "",
+    "license": "MIT"
+}
